@@ -1,0 +1,79 @@
+<departments>
+  <department>
+    <lname>Wallace</lname>
+    <dname>Administration</dname>
+    <locations>
+      <dlocation> 'Stafford'</dlocation>
+    </locations>
+  </department>
+  <department>
+    <lname>Freed</lname>
+    <dname>Hardware</dname>
+    <locations>
+      <dlocation> 'Milwaukee'</dlocation>
+    </locations>
+  </department>
+  <department>
+    <lname>Borg</lname>
+    <dname>Headquarters</dname>
+    <locations>
+      <dlocation> 'Houston'</dlocation>
+    </locations>
+  </department>
+  <department>
+    <lname>Linda</lname>
+    <dname>HR</dname>
+    <locations>
+      <dlocation> 'Arlington'</dlocation>
+    </locations>
+  </department>
+  <department>
+    <lname>Kirkish</lname>
+    <dname>QA</dname>
+    <locations>
+      <dlocation> 'Austin'</dlocation>
+    </locations>
+  </department>
+  <department>
+    <lname>Wong</lname>
+    <dname>Research</dname>
+    <locations>
+      <dlocation> 'Bellaire'</dlocation>
+    </locations>
+    <locations>
+      <dlocation> 'Houston'</dlocation>
+    </locations>
+    <locations>
+      <dlocation> 'Sugarland'</dlocation>
+    </locations>
+  </department>
+  <department>
+    <lname>James</lname>
+    <dname>Sales</dname>
+    <locations>
+      <dlocation> 'Chicago'</dlocation>
+    </locations>
+    <locations>
+      <dlocation> 'Dallas'</dlocation>
+    </locations>
+    <locations>
+      <dlocation> 'Miami'</dlocation>
+    </locations>
+    <locations>
+      <dlocation> 'Philadephia'</dlocation>
+    </locations>
+    <locations>
+      <dlocation> 'Seattle'</dlocation>
+    </locations>
+  </department>
+  <department>
+    <lname>James</lname>
+    <dname>Software</dname>
+    <locations>
+      <dlocation> 'Atlanta'</dlocation>
+    </locations>
+    <locations>
+      <dlocation> 'Sacramento'</dlocation>
+    </locations>
+  </department>
+</departments>
